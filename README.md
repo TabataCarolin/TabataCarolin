@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###
-<img data-importer="snake" src="https://raw.githubusercontent.com/TabataCarolin/TabataCarolin/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/TabataCarolin/TabataCarolin/snake-output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
