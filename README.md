@@ -1,4 +1,7 @@
-## Hi there 👋
+# Seja bem vindo! Prazer me chamo Tabata Carolina✨
+
+Sou estudante de Análise de Sistema, mas o meu foco até a data presente é a linguagem de Python e Inteligencia Artificial.
+
 
 <!--
 **TabataCarolin/TabataCarolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
