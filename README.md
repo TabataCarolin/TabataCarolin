@@ -1,6 +1,6 @@
 # Seja bem vindo! Prazer me chamo Tabata Carolina✨
 
-Sou estudante de Análise de Sistema, mas o meu foco até a data presente é a linguagem de Python e Inteligencia Artificial.
+Sou estudante de Análise de Sistemas, mas o meu foco até a data presente é a linguagem de Python e Inteligencia Artificial.
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TabataCarolin/TabataCarolin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
