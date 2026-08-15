@@ -2,26 +2,51 @@
 
 Sou estudante de Análise de Sistema, mas o meu foco até a data presente é a linguagem de Python e Inteligencia Artificial.
 
-
-<!--
-**TabataCarolin/TabataCarolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TabataCarolin/TabataCarolin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TabataCarolin/TabataCarolin/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TabataCarolin/TabataCarolin/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+_________________________________________________________________________________________________________________________________________________________
 
-###
+### 💻 Estudante de Análise de Sistemas | Em transição para Tecnologia
+
+Sou estudante de Análise de Sistemas e estou construindo minha jornada
+na área de tecnologia, transformando curiosidade e aprendizado em
+projetos cada vez mais práticos.
+
+Atualmente, trabalho como auxiliar operacional em uma empresa
+da área de segurança e telecomunicações, minha experiência me ajudou a desenvolver
+responsabilidade, atenção aos detalhes, capacidade de análise e
+tomada de decisão. Agora, estou direcionando essas habilidades para a tecnologia,
+buscando evoluir como profissional e construir uma carreira na área
+de desenvolvimento de software. 🚀
+
+## 💁‍♀️💻 Sobre mim
+
+- 🎓 Estudante de Análise de Sistemas
+- 💻 Construindo minha jornada na área de desenvolvimento
+- 📚 Sempre buscando aprender algo novo
+- 🧠 Interessada em lógica, tecnologia e resolução de problemas
+- 🔍 Perfil analítico e atenção aos detalhes
+- 🚀 Em constante evolução profissional
+
+---
+
+## 🛠️ Tecnologias & conhecimentos
+
+> Estou construindo meu conhecimento e adicionando novas tecnologias
+> conforme avanço nos estudos e projetos.
+
+---
+
+**Linguagens e tecnologias que estou estudando:**
+
+- Python
+- Inteligência Artificial
+
+---
+```text
+Aprender → Praticar → Criar → Errar → Melhorar → Evoluir 🚀
+
+
+
